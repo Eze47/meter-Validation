@@ -160,5 +160,6 @@ document
       })
       .catch((error) => {
         console.log("eror:", error);
+        //document.getElementById("payElect).disabled= "none";
       });
   });
